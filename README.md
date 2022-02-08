@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy
 
 ## Purpose
 A website that offers fitness training services.
@@ -13,3 +13,4 @@ https://stephenfike.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by Stephen Fike
 
+# Run Buddy Inc.
